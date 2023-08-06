@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "730643591781",
+    "project_id": "senior-design-362600",
+    "storage_bucket": "senior-design-362600.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730643591781:android:89f06387678b351c5b4c8c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_maps_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "730643591781-776ut2hs256h5pbf453m1pqh3poi8ap8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": ""
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "730643591781-776ut2hs256h5pbf453m1pqh3poi8ap8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
