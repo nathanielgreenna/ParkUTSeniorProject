@@ -1,5 +1,5 @@
 # ParkUT Senior Project
-
+By Nathaniel Green, Hoang Bao Duy Le, Khiem Pham, and Andrew Tanzilli
 ## The Problem:
 - Parking lots are an inefficient and unaesthetic land use in an urban environment.
 - As a university grows in size or prestige, parking lots can be replaced with buildings, green space, or other infrastructure.
